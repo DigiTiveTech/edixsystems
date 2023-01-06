@@ -6,7 +6,7 @@
     # URL
     url: 
     # FTP login name
-    user: 
+    user: edixsyst
     # FTP password
     password: BQ5j+s39[t3OJa
     # Specifies a local directory to sync from as if it were the git project root path.
